@@ -1,0 +1,1 @@
+// Minimal viewer loader JS

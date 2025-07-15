@@ -1,1 +1,1 @@
-// pdf.worker.mjs placeholder
+// Placeholder PDF worker
